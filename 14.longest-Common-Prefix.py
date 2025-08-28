@@ -19,4 +19,4 @@ class Solution(object):
                 if prefix == "":
                     return ""   # no common prefix at all
         
-        return prefix
+        return prefix 
